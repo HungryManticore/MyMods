@@ -23,4 +23,4 @@ The list of all my mods available here, categorised by game.
 
 [Save states in the game's root directory](https://github.com/HungryManticore/TDU-Savepath) - allows placing saves in the game's root directory
 
-[Open Races](https://github.com/HungryManticore/TDU-Open-Races) - allows bringing any car to any race and adjusts the opponents' class, after an event has already been won
+[Open Races](https://github.com/HungryManticore/TDU-Open-Races) - allows bringing any car to any race and adjusts the opponents' class, after the event has already been won
