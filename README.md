@@ -24,3 +24,9 @@ The list of all my mods available here, categorised by game.
 [Save states in the game's root directory](https://github.com/HungryManticore/TDU-Savepath) - allows placing saves in the game's root directory
 
 [Open Races](https://github.com/HungryManticore/TDU-Open-Races) - allows bringing any car to any race and adjusts the opponents' class, after the event has already been won
+
+# Contributions to other projects
+
+[Forza Horizon 1 Reimagined](https://github.com/FH1-ReImagined/ForzaHorizon1-ReImagined) - custom single player races, available after the player's won a Festival Race or a Street Race
+
+[Speedbreaker](https://github.com/SpeedBreakerProject/speedbreaker) - option to enable cops in Custom Race
