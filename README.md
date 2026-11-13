@@ -31,4 +31,6 @@ The list of all my mods available here, categorised by game.
 
 [Speedbreaker](https://github.com/SpeedBreakerProject/speedbreaker) - option to enable cops in Custom Race
 
-[Open Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited) - custom single player races; after obtaining a gold medal in an event, Custom Race mode allows players to change a Race into a Time Trial and vice versa, set the number of opponents, laps, AI drivers, toggle traffic and cops on and off 
+[Open Test Drive Unlimited](https://github.com/opentestdriveunlimited/OpenTestDriveUnlimited)
+- custom single player races; after obtaining a gold medal in an event, Custom Race mode allows players to change a Race into a Time Trial and vice versa, set the number of opponents, laps, AI drivers, toggle traffic and cops on and off
+- mark vehicles already owned with green font when visiting a dealer
